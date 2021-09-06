@@ -1,2 +1,1 @@
-# College-OSS
-College Oss Classes
+# College Oss Classes
